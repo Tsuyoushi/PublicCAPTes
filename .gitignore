@@ -1,0 +1,9 @@
+
+# auto generated wildcard
+gen/db/.env
+node_modules
+
+# auto generated wildcard
+communitydmcap/.env
+# auto generated wildcard
+sapyard/.env
